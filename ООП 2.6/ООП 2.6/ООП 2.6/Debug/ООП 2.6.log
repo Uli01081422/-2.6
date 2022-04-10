@@ -1,0 +1,10 @@
+﻿  Complex.cpp
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(18,34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(24,108): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(53,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(53,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(80,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\ООП 2.6\Complex.cpp(80,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  ООП 2.6.vcxproj -> C:\Users\Admin\Desktop\ООП 2.6\ООП 2.6\Debug\ООП 2.6.exe
